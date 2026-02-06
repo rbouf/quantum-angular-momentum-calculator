@@ -5,13 +5,13 @@ A Python tool for computing Wigner 3-j and 6-j symbols used in quantum mechanics
 ## 🎯 Physical Significance
 
 ### Wigner 3-j Symbol
-The Wigner 3-j symbol `⎛j₁ j₂ j₃⎞` represents the probability amplitude for coupling three angular momenta in quantum systems. It's directly related to Clebsch-Gordan coefficients and appears in:
+The Wigner 3-j symbol represents the probability amplitude for coupling three angular momenta in quantum systems. It's directly related to Clebsch-Gordan coefficients and appears in:
 - Matrix elements of spherical tensor operators
 - Atomic transition selection rules
 - Angular momentum addition in quantum mechanics
 
 ### Wigner 6-j Symbol  
-The Wigner 6-j symbol `⎧j₁ j₂ j₃⎫` describes transformations between different coupling schemes of three angular momenta, essential for:
+The Wigner 6-j symbol describes transformations between different coupling schemes of three angular momenta, essential for:
 - Recoupling coefficients in nuclear physics
 - Transformation between LS and jj coupling schemes
 - Shell model calculations
